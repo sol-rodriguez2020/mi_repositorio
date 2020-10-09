@@ -1,0 +1,34 @@
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap);
+$color-font:#000000;
+$title-font: normal 24px 'Cabin';
+$font2:Montserrat, sans-serif;
+
+h1 {color:$color-font;
+   font:$title-font;
+  
+}
+p {
+	grid-area: nav;
+	font-family:$font2;
+	color:$color-font;
+}
+.list-group-item {
+	font-family:$font2;
+	color:$color-font;
+}
+.col-sm {
+	font-family:$font2;
+	color:$color-font;
+}
+nav {
+	font-family:$font2;
+	color:$color-font;
+}
+.form-group row {
+	font-family:$font2;
+	color:$color-font;
+}
+.col-sm-10 {
+	font-family:$font2;
+	color:$color-font;
+}

@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap);
+h1 {
+  color: #000000;
+  font: normal 24px "Cabin"; }
+
+p {
+  grid-area: nav;
+  font-family: Montserrat, sans-serif;
+  color: #000000; }
+
+.list-group-item {
+  font-family: Montserrat, sans-serif;
+  color: #000000; }
+
+.col-sm {
+  font-family: Montserrat, sans-serif;
+  color: #000000; }
+
+nav {
+  font-family: Montserrat, sans-serif;
+  color: #000000; }
+
+.form-group row {
+  font-family: Montserrat, sans-serif;
+  color: #000000; }
+
+.col-sm-10 {
+  font-family: Montserrat, sans-serif;
+  color: #000000; }
